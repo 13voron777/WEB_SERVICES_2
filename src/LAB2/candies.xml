@@ -1,0 +1,17 @@
+<factory>
+    <candy>
+        <name>East</name>
+        <sweetness>7</sweetness>
+        <isChocolate>false</isChocolate>
+    </candy>
+    <candy>
+        <name>River</name>
+        <sweetness>8</sweetness>
+        <isChocolate>true</isChocolate>
+    </candy>
+    <candy>
+        <name>Karmel</name>
+        <sweetness>9</sweetness>
+        <isChocolate>true</isChocolate>
+    </candy>
+</factory>
