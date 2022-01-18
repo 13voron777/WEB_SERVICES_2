@@ -22,7 +22,6 @@ public class Main {
 
         while (xmlStreamReader.hasNext()) {
 
-
             switch (xmlStreamReader.next()) {
 
                 case XMLStreamReader.START_ELEMENT :
